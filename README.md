@@ -16,7 +16,9 @@ COLLABORATORS: Aleksander Mastalski + Amal Algamdey + Amar Gurung + Felipe Romer
 // HOW TO START
 
 01 + Open the "MACAD-AIA-one_notebook_to_rule_them_all" code and open it using your Google Colab notebook. All the necessary instructions are commented there
+
 02 + After you run it and created your city csv file, you can open the "MACAD-AIA-URBAN_VOIDS-K_MEANS" file to then cluster all the urban points based on the scores
+
 03 + After that, you can send us the final csv file to then added onto the live map.
 
 
