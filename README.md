@@ -13,6 +13,8 @@ FACULTY: Angelos Chronis + Lea Khairallah
 COLLABORATORS: Aleksander Mastalski + Amal Algamdey + Amar Gurung + Felipe Romero + German Otto Bodenbender
 
 
+-----------------------------------------
+
 // HOW TO START
 
 01 + Open the "MACAD-AIA-one_notebook_to_rule_them_all" code and open it using your Google Colab notebook. All the necessary instructions are commented there
