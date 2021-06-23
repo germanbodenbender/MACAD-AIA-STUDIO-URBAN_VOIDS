@@ -1,5 +1,6 @@
 # MACAD MASTERS + AIA SEMINAR //  URBAN VOIDS
-URBAN VOIDS: A packaged repository for the final studio project for the Artificial Intelligence seminar at  the MACAD Masters.
+A packaged repository for our final studio project called "Urban Voids", created for the Artificial Intelligence seminar at  the MACAD Masters.
+The repository contains all the necessary information, links and scripts necesarry to re-create the project using new and different data.
 
 PROJECT WEBSITE: https://city-lab.wixsite.com/urbanvoids
 
