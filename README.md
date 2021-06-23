@@ -1,4 +1,4 @@
-<img src="./URBAN VOID - COVER.png">
+<img src="./URBAN VOIDS.png">
 
 # MACAD MASTERS + AIA SEMINAR //  URBAN VOIDS
 A packaged repository for our final studio project called "Urban Voids", created for the Artificial Intelligence seminar at  the MACAD Masters.
